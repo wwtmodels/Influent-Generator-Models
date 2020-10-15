@@ -1,4 +1,4 @@
-# WWTP Influent Generator
+# WWTP Influent Generators
 
 This repository contains the different WWTP influent Generator Model developed betweeen [Lund University] (https://www.iea.lth.se/) and [Technical University of Denmark] (https://www.kt.dtu.dk/english/research/prosys) 
 
