@@ -18,4 +18,4 @@ This version of the model was developed in R2017a and it can be run in the said 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20BSMSewer%20Influent%20Generator-990000?style=for-the-badge)](https://github.com/wwtmodels/Influent-Generator-Models/releases/download/BSMSewerInfGen/influentgenerator2018.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Influent-Generator-Models/BSMSewerInfGen/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Influent-Generator-Models) 
 
 
-![alt text](https://github.com/wwtmodels/wwtmodels.github.io/blob/main/logo.png)
+![logo](logo.png)
