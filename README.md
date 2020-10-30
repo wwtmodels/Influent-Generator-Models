@@ -14,6 +14,7 @@ This version of the model was developed in MATLAB 2019b and it can be run in sai
 
 <strong>2. BSMSewer Influent Generator</strong>  
 This is the BSMSewer based influent generator model developed by Ramesh Saagi, Sofia-Lovisa Andersson, Erik Lindblom and Ulf Jeppsson. The model is described in the following papers authored by the developers:
+
 [Saagi, R. (2017), Generating Wastewater Treatment Plant Influent Data for Realistic Evaluation of Future Scenarios - Case Study for WWTPs in Stockholm, Sweden. Technical report, Division of Industrial Electrical Engineering and Automation, Lund University](https://www.iea.lth.se/publications/Reports/LTH-IEA-7268.pdf)
 
 [Andersson, S., Rahmberg, M., Nilsson, Å., Grundestam, C., Saagi, R., & Lindblom, E. (2020). Evaluation of environmental impacts for future influent scenarios using a model-based approach. Water Science and Technology, 81(8), 1615–1622.](https://doi.org/10.2166/wst.2020.183)
