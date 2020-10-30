@@ -12,7 +12,7 @@ This version of the model was developed in MATLAB 2019b and it can be run in sai
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM2%20Influent%20Generator-990000?style=for-the-badge)](https://github.com/wwtmodels/Influent-Generator-Models/releases/download/v1/BSM2.influent.generator.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Influent-Generator-Models/v1/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Influent-Generator-Models) 
 
 <strong>2. BSMSewer Influent Generator</strong>  
-This is the BSMSewer based influent generator model developed by Ramesh Saagi, Sofia-Lovisa Andersson, Erik Lindblom and Ulf Jeppsson. The model is described in the following papers authored by the developers:
+This is the BSMSewer based influent generator model developed by [Ramesh Saagi](https://github.com/rsaagi), Sofia-Lovisa Andersson, Erik Lindblom and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following papers authored by the developers:
 
 [Saagi, R. (2017), Generating Wastewater Treatment Plant Influent Data for Realistic Evaluation of Future Scenarios - Case Study for WWTPs in Stockholm, Sweden. Technical report, Division of Industrial Electrical Engineering and Automation, Lund University.](https://www.iea.lth.se/publications/Reports/LTH-IEA-7268.pdf)
 
