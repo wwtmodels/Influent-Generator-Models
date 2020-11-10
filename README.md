@@ -3,7 +3,7 @@
 This repository contains the different WWTP influent Generator Model developed between [Lund University](https://www.iea.lth.se/) and [Technical University of Denmark](https://www.kt.dtu.dk/english/research/prosys). Two implementations are currently available  
 
 <strong>1. BSM2 Influent Generator</strong>  
-This implementation is the BSM2 influent generator developed by Krist V. Gernaey, [Xavier Flores-Alsina](https://github.com/xfalsina), Lorenzo Benedetti, Christian Rosen and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper authored by the model developers: 
+This implementation is the BSM2 influent generator developed by [Krist V. Gernaey](https://github.com/kristgernaey), [Xavier Flores-Alsina](https://github.com/xfalsina), Lorenzo Benedetti, Christian Rosen and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper authored by the model developers: 
 
 [Gernaey, K. V., Flores-Alsina, X., Rosen, C., Benedetti, L., & Jeppsson, U. (2011). Dynamic influent pollutant disturbance scenario generation using a phenomenological modelling approach. Environmental Modelling & Software, 26(11), 1255–1267.](https://doi.org/10.1016/j.envsoft.2011.06.001) 
 
