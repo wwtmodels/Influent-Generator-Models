@@ -20,7 +20,7 @@ This is the BSMSewer based influent generator model developed by [Ramesh Saagi](
 
 This version of the model was developed in R2017a and it can be run in the said instance of MATLAB or newer versions.
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSMSewer%20Influent%20Generator-990000?style=for-the-badge)](https://github.com/wwtmodels/Influent-Generator-Models/releases/download/BSMSewerInfGen/influentgenerator2018.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Influent-Generator-Models/BSMSewerInfGen/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Influent-Generator-Models) 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM%20Sewer%20Influent%20Generator-990000?style=for-the-badge)](https://github.com/wwtmodels/Influent-Generator-Models/releases/download/BSMSewerInfGen/influentgenerator2018.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Influent-Generator-Models/BSMSewerInfGen/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Influent-Generator-Models) 
 
 
 ![logo](WWTMlogo.png)
