@@ -5,7 +5,7 @@ This repository contains the different WWTP influent Generator Model developed b
 <strong>1. BSM2 Influent Generator</strong>  
 This implementation is the BSM2 influent generator developed by [Krist V. Gernaey](https://github.com/kristgernaey), [Xavier Flores-Alsina](https://github.com/xfalsina), Lorenzo Benedetti, Christian Rosen and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper authored by the model developers: 
 
-[Gernaey, K. V., Flores-Alsina, X., Rosen, C., Benedetti, L., & Jeppsson, U. (2011). Dynamic influent pollutant disturbance scenario generation using a phenomenological modelling approach. Environmental Modelling & Software, 26(11), 1255–1267.](https://doi.org/10.1016/j.envsoft.2011.06.001) 
+[Gernaey, K. V., Flores-Alsina, X., Rosen, C., Benedetti, L., & Jeppsson, U. (2011). Dynamic influent pollutant disturbance scenario generation using a phenomenological modelling approach. Environmental Modelling & Software, 26 (11), 1255–1267.](https://doi.org/10.1016/j.envsoft.2011.06.001) 
 
 This version of the model was developed in MATLAB 2019b and it can be run in said instance of MATLAB or newer versions.
 
@@ -16,7 +16,7 @@ This is the BSMSewer based influent generator model developed by [Ramesh Saagi](
 
 [Saagi, R. (2017), Generating Wastewater Treatment Plant Influent Data for Realistic Evaluation of Future Scenarios - Case Study for WWTPs in Stockholm, Sweden. Technical report, Division of Industrial Electrical Engineering and Automation, Lund University.](https://www.iea.lth.se/publications/Reports/LTH-IEA-7268.pdf)
 
-[Andersson, S., Rahmberg, M., Nilsson, Å., Grundestam, C., Saagi, R., & Lindblom, E. (2020). Evaluation of environmental impacts for future influent scenarios using a model-based approach. Water Science and Technology, 81(8), 1615–1622.](https://doi.org/10.2166/wst.2020.183)
+[Andersson, S., Rahmberg, M., Nilsson, Å., Grundestam, C., Saagi, R., & Lindblom, E. (2020). Evaluation of environmental impacts for future influent scenarios using a model-based approach. Water Science and Technology, 81 (8), 1615–1622.](https://doi.org/10.2166/wst.2020.183)
 
 This version of the model was developed in R2017a and it can be run in the said instance of MATLAB or newer versions.
 
